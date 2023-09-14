@@ -1,4 +1,5 @@
 # Grapevine Leaves Classification Project
+![leaves photo](leaves2-small.jpg)
 
 ## Table of Contents
 
